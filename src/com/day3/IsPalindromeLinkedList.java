@@ -9,7 +9,6 @@ public class IsPalindromeLinkedList {
 
 		ListNode() {
 		}
-
 		ListNode(int val) {
 			this.val = val;
 		}
