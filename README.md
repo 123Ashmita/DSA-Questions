@@ -41,3 +41,8 @@ Later
 ## Day - 9
 1. **Best Time to Buy and Sell Stock**  
 2. **Group Anagrams**
+
+## Day-10
+1. **Math Pow(x,n) Implement**
+2. **Max Number of K Sum Pairs**
+3. **Longest Repeating Character Replacement**
