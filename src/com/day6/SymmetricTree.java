@@ -1,4 +1,4 @@
-package day6;
+package com.day6;
 
 public class SymmetricTree {
 

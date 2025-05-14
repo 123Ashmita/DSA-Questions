@@ -1,4 +1,4 @@
-package day7;
+package com.day7;
 import java.util.*;
 
 public class PreorderTraversal {

@@ -1,4 +1,4 @@
-package day7;
+package com.day7;
 
 public class ReorderList {
     static class ListNode {

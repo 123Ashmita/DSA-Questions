@@ -46,3 +46,11 @@ Later
 1. **Math Pow(x,n) Implement**
 2. **Max Number of K Sum Pairs**
 3. **Longest Repeating Character Replacement**
+
+## Day-11
+ Later
+ 
+## Day-12
+1. **Minimum Distance Between BST Nodes**
+2. **Decode String**
+3. **Letter Combinations of a Phone Number**
