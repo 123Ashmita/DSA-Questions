@@ -54,3 +54,11 @@ Later
 1. **Minimum Distance Between BST Nodes**
 2. **Decode String**
 3. **Letter Combinations of a Phone Number**
+
+## Day-13
+later
+
+## Day-14
+1. **Find kth Largest Element**
+2. **Find Peak Element**
+3. **Leaf Similar**
