@@ -67,3 +67,8 @@ later
 1. **Delete Node In BST**
 2. **Longest Subarray**
 3. **Recent Counter**
+
+## Day-16
+1. **Median of Two Sorted Arrays**
+2. **Container With Most Water**
+3. **Total Cost to Hire K Workers** 
