@@ -1,0 +1,10 @@
+1. git clone <repository-url>
+2. git pull
+3. git status
+4. git add .
+5. git commit -m "msg"
+6. git push -u origin branch-name
+7. git push
+8. git log //commit history
+9. git checkout -b new-branch-name //creating a new branch
+10. git checkout branch-name // switch to branch

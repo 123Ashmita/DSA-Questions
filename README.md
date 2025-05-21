@@ -27,8 +27,9 @@ This repository contains my solutions to various LeetCode problems. Below are my
 2. **Reverse Words**  
 3. **Search Insert Position**
 
-## Day - 6
-Later
+## Day - 6(done on 21 May)
+1. **Remove Stars**
+2. **Symmetric Tree**
 
 ## Day - 7
 1. **Preorder Traversal**  
@@ -72,3 +73,8 @@ later
 1. **Median of Two Sorted Arrays**
 2. **Container With Most Water**
 3. **Total Cost to Hire K Workers** 
+
+## Day-17
+1. **Number of 1 Bits(Hamming Weight)**
+2. **Happy Number**
+3. **House Robber**
