@@ -27,7 +27,7 @@ This repository contains my solutions to various LeetCode problems. Below are my
 2. **Reverse Words**  
 3. **Search Insert Position**
 
-## Day - 6(done on 21 May)
+## Day - 6(done on 19 May)
 1. **Remove Stars**
 2. **Symmetric Tree**
 
@@ -36,8 +36,9 @@ This repository contains my solutions to various LeetCode problems. Below are my
 2. **Reorder List**  
 3. **Valid BST**
 
-## Day - 8
-Later
+## Day - 8(done on 21 May)
+1. **Implement Stack using Queue**
+2. ** Lowest Common Ancestor of a Binary Search Tree**
 
 ## Day - 9
 1. **Best Time to Buy and Sell Stock**  
