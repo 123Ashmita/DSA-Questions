@@ -38,7 +38,7 @@ This repository contains my solutions to various LeetCode problems. Below are my
 
 ## Day - 8(done on 21 May)
 1. **Implement Stack using Queue**
-2. ** Lowest Common Ancestor of a Binary Search Tree**
+2. **Lowest Common Ancestor of a Binary Search Tree**
 
 ## Day - 9
 1. **Best Time to Buy and Sell Stock**  
