@@ -49,8 +49,9 @@ This repository contains my solutions to various LeetCode problems. Below are my
 2. **Max Number of K Sum Pairs**
 3. **Longest Repeating Character Replacement**
 
-## Day-11
- Later
+## Day-11 (done 1 question on 22 may (day 18))
+1. **Minimum Subarray Length**
+2. Later
  
 ## Day-12
 1. **Minimum Distance Between BST Nodes**
@@ -79,3 +80,8 @@ later
 1. **Number of 1 Bits(Hamming Weight)**
 2. **Happy Number**
 3. **House Robber**
+
+## Day-18
+1. **3 Sum**
+2. **Find the Difference of Two Arrays**
+3. **Keys And Rooms**
