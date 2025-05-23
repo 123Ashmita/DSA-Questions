@@ -1,9 +1,5 @@
 package com.day7;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class ValidBST {
     static class TreeNode {
         int val;

@@ -1,6 +1,5 @@
 package com.day6;
 
-import java.util.Stack;
 
 /**
  * A simple program to remove characters from a string
