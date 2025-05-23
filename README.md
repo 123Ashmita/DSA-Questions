@@ -85,3 +85,8 @@ later
 1. **3 Sum**
 2. **Find the Difference of Two Arrays**
 3. **Keys And Rooms**
+
+## Day-19
+1. **Max Consecutive ones**
+2. **Can Place Flowers**
+3. **Determine if two Strings are close**
