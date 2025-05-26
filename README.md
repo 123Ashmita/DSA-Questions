@@ -90,3 +90,9 @@ later
 1. **Max Consecutive ones**
 2. **Can Place Flowers**
 3. **Determine if two Strings are close**
+
+
+## Day-20
+1. **Sort Array**
+2. **Successful Pairs**
+3. **Best Time to Buy and sell Stock (111)**
