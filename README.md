@@ -96,3 +96,8 @@ later
 1. **Sort Array**
 2. **Successful Pairs**
 3. **Best Time to Buy and sell Stock (111)**
+
+## Day-21
+1. **Merge K Sorted Lists**
+2. **Odd Even Linked List**
+3. **Equal Row and Column Pairs**
