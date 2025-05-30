@@ -101,3 +101,7 @@ later
 1. **Merge K Sorted Lists**
 2. **Odd Even Linked List**
 3. **Equal Row and Column Pairs**
+
+## Day-22
+1. **Reverse K Nodes**
+2. **Daily Temperatures**

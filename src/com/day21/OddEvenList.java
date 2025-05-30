@@ -10,7 +10,7 @@ public class OddEvenList {
     /**
      * Definition for singly-linked list node.
      */
-    class ListNode {
+    public class ListNode {
         int val;
         ListNode next;
 
